@@ -1,0 +1,1 @@
+-record(http_request, {verb = "GET", handle, headers}).
